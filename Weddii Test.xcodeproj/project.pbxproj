@@ -8,12 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		D00679AD1F1EB628002F50B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00679AC1F1EB628002F50B4 /* AppDelegate.swift */; };
-		D00679AF1F1EB628002F50B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00679AE1F1EB628002F50B4 /* ViewController.swift */; };
 		D00679B21F1EB628002F50B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00679B01F1EB628002F50B4 /* Main.storyboard */; };
 		D00679B41F1EB628002F50B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D00679B31F1EB628002F50B4 /* Assets.xcassets */; };
 		D00679B71F1EB628002F50B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00679B51F1EB628002F50B4 /* LaunchScreen.storyboard */; };
 		D00679C21F1EB628002F50B4 /* Weddii_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00679C11F1EB628002F50B4 /* Weddii_TestTests.swift */; };
 		D00679CD1F1EB628002F50B4 /* Weddii_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00679CC1F1EB628002F50B4 /* Weddii_TestUITests.swift */; };
+		D00679E11F1EB681002F50B4 /* Login Background.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679DA1F1EB681002F50B4 /* Login Background.png */; };
+		D00679E21F1EB681002F50B4 /* 03-suggested.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679DB1F1EB681002F50B4 /* 03-suggested.png */; };
+		D00679E31F1EB681002F50B4 /* 05-profiles.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679DC1F1EB681002F50B4 /* 05-profiles.png */; };
+		D00679E41F1EB681002F50B4 /* 04-confirm.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679DD1F1EB681002F50B4 /* 04-confirm.png */; };
+		D00679E51F1EB681002F50B4 /* WeddiiLogoPlain.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679DE1F1EB681002F50B4 /* WeddiiLogoPlain.png */; };
+		D00679E61F1EB681002F50B4 /* 02-filter.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679DF1F1EB681002F50B4 /* 02-filter.png */; };
+		D00679E71F1EB681002F50B4 /* 01-browse.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679E01F1EB681002F50B4 /* 01-browse.png */; };
+		D0384B9C1F1FE51E0010CCB0 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0384B9B1F1FE51E0010CCB0 /* CreateAccountViewController.swift */; };
+		D0384B9E1F1FE53B0010CCB0 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0384B9D1F1FE53B0010CCB0 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +44,6 @@
 /* Begin PBXFileReference section */
 		D00679A91F1EB628002F50B4 /* Weddii Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Weddii Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D00679AC1F1EB628002F50B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D00679AE1F1EB628002F50B4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D00679B11F1EB628002F50B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D00679B31F1EB628002F50B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D00679B61F1EB628002F50B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +54,15 @@
 		D00679C81F1EB628002F50B4 /* Weddii TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weddii TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D00679CC1F1EB628002F50B4 /* Weddii_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weddii_TestUITests.swift; sourceTree = "<group>"; };
 		D00679CE1F1EB628002F50B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D00679DA1F1EB681002F50B4 /* Login Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login Background.png"; sourceTree = "<group>"; };
+		D00679DB1F1EB681002F50B4 /* 03-suggested.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03-suggested.png"; sourceTree = "<group>"; };
+		D00679DC1F1EB681002F50B4 /* 05-profiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "05-profiles.png"; sourceTree = "<group>"; };
+		D00679DD1F1EB681002F50B4 /* 04-confirm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "04-confirm.png"; sourceTree = "<group>"; };
+		D00679DE1F1EB681002F50B4 /* WeddiiLogoPlain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WeddiiLogoPlain.png; sourceTree = "<group>"; };
+		D00679DF1F1EB681002F50B4 /* 02-filter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-filter.png"; sourceTree = "<group>"; };
+		D00679E01F1EB681002F50B4 /* 01-browse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01-browse.png"; sourceTree = "<group>"; };
+		D0384B9B1F1FE51E0010CCB0 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		D0384B9D1F1FE53B0010CCB0 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,9 +114,17 @@
 			isa = PBXGroup;
 			children = (
 				D00679AC1F1EB628002F50B4 /* AppDelegate.swift */,
-				D00679AE1F1EB628002F50B4 /* ViewController.swift */,
 				D00679B01F1EB628002F50B4 /* Main.storyboard */,
+				D0384B9B1F1FE51E0010CCB0 /* CreateAccountViewController.swift */,
+				D0384B9D1F1FE53B0010CCB0 /* MainViewController.swift */,
 				D00679B31F1EB628002F50B4 /* Assets.xcassets */,
+				D00679DA1F1EB681002F50B4 /* Login Background.png */,
+				D00679DB1F1EB681002F50B4 /* 03-suggested.png */,
+				D00679DC1F1EB681002F50B4 /* 05-profiles.png */,
+				D00679DD1F1EB681002F50B4 /* 04-confirm.png */,
+				D00679DE1F1EB681002F50B4 /* WeddiiLogoPlain.png */,
+				D00679DF1F1EB681002F50B4 /* 02-filter.png */,
+				D00679E01F1EB681002F50B4 /* 01-browse.png */,
 				D00679B51F1EB628002F50B4 /* LaunchScreen.storyboard */,
 				D00679B81F1EB628002F50B4 /* Info.plist */,
 			);
@@ -232,9 +256,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D00679E71F1EB681002F50B4 /* 01-browse.png in Resources */,
+				D00679E11F1EB681002F50B4 /* Login Background.png in Resources */,
+				D00679E51F1EB681002F50B4 /* WeddiiLogoPlain.png in Resources */,
+				D00679E21F1EB681002F50B4 /* 03-suggested.png in Resources */,
+				D00679E31F1EB681002F50B4 /* 05-profiles.png in Resources */,
 				D00679B71F1EB628002F50B4 /* LaunchScreen.storyboard in Resources */,
 				D00679B41F1EB628002F50B4 /* Assets.xcassets in Resources */,
 				D00679B21F1EB628002F50B4 /* Main.storyboard in Resources */,
+				D00679E61F1EB681002F50B4 /* 02-filter.png in Resources */,
+				D00679E41F1EB681002F50B4 /* 04-confirm.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +290,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D00679AF1F1EB628002F50B4 /* ViewController.swift in Sources */,
+				D0384B9C1F1FE51E0010CCB0 /* CreateAccountViewController.swift in Sources */,
 				D00679AD1F1EB628002F50B4 /* AppDelegate.swift in Sources */,
+				D0384B9E1F1FE53B0010CCB0 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +539,7 @@
 				D00679D31F1EB628002F50B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D00679D41F1EB628002F50B4 /* Build configuration list for PBXNativeTarget "Weddii TestTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +548,7 @@
 				D00679D61F1EB628002F50B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D00679D71F1EB628002F50B4 /* Build configuration list for PBXNativeTarget "Weddii TestUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +557,7 @@
 				D00679D91F1EB628002F50B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
