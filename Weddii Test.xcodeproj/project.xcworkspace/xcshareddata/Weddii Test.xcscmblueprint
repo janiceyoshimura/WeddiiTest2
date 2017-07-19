@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AC41253AF3BD04BC01D30457A728FE045900BB99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC41253AF3BD04BC01D30457A728FE045900BB99" : 9223372036854775807,
+    "DF92E0E33B64BFE0E19D13A0A6944DF497F6C224" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1BC302ED-01AF-463E-859E-786CBE4C18C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC41253AF3BD04BC01D30457A728FE045900BB99" : "WeddiiTest2\/",
+    "DF92E0E33B64BFE0E19D13A0A6944DF497F6C224" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Weddii Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Weddii Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/janiceyoshimura\/WeddiiTest2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC41253AF3BD04BC01D30457A728FE045900BB99"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/janiceyoshimura\/bitfountain-tutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF92E0E33B64BFE0E19D13A0A6944DF497F6C224"
+    }
+  ]
+}
