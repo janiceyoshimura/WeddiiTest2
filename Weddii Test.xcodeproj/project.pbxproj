@@ -22,6 +22,9 @@
 		D00679E71F1EB681002F50B4 /* 01-browse.png in Resources */ = {isa = PBXBuildFile; fileRef = D00679E01F1EB681002F50B4 /* 01-browse.png */; };
 		D0384B9C1F1FE51E0010CCB0 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0384B9B1F1FE51E0010CCB0 /* CreateAccountViewController.swift */; };
 		D0384B9E1F1FE53B0010CCB0 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0384B9D1F1FE53B0010CCB0 /* MainViewController.swift */; };
+		D0B561A31F1FF39000D87544 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B561A21F1FF39000D87544 /* LoginViewController.swift */; };
+		D0D95D251F229A56002431CA /* SalonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D95D241F229A56002431CA /* SalonTableViewCell.swift */; };
+		D0D95D271F22A589002431CA /* SalonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D95D261F22A589002431CA /* SalonModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +66,9 @@
 		D00679E01F1EB681002F50B4 /* 01-browse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01-browse.png"; sourceTree = "<group>"; };
 		D0384B9B1F1FE51E0010CCB0 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 		D0384B9D1F1FE53B0010CCB0 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		D0B561A21F1FF39000D87544 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		D0D95D241F229A56002431CA /* SalonTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SalonTableViewCell.swift; sourceTree = "<group>"; };
+		D0D95D261F22A589002431CA /* SalonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SalonModel.swift; path = ../SalonModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,10 +119,13 @@
 		D00679AB1F1EB628002F50B4 /* Weddii Test */ = {
 			isa = PBXGroup;
 			children = (
+				D0D95D261F22A589002431CA /* SalonModel.swift */,
 				D00679AC1F1EB628002F50B4 /* AppDelegate.swift */,
 				D00679B01F1EB628002F50B4 /* Main.storyboard */,
+				D0D95D241F229A56002431CA /* SalonTableViewCell.swift */,
 				D0384B9B1F1FE51E0010CCB0 /* CreateAccountViewController.swift */,
 				D0384B9D1F1FE53B0010CCB0 /* MainViewController.swift */,
+				D0B561A21F1FF39000D87544 /* LoginViewController.swift */,
 				D00679B31F1EB628002F50B4 /* Assets.xcassets */,
 				D00679DA1F1EB681002F50B4 /* Login Background.png */,
 				D00679DB1F1EB681002F50B4 /* 03-suggested.png */,
@@ -290,8 +299,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0B561A31F1FF39000D87544 /* LoginViewController.swift in Sources */,
+				D0D95D271F22A589002431CA /* SalonModel.swift in Sources */,
 				D0384B9C1F1FE51E0010CCB0 /* CreateAccountViewController.swift in Sources */,
 				D00679AD1F1EB628002F50B4 /* AppDelegate.swift in Sources */,
+				D0D95D251F229A56002431CA /* SalonTableViewCell.swift in Sources */,
 				D0384B9E1F1FE53B0010CCB0 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
